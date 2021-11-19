@@ -1,0 +1,20 @@
+.block {
+  width: 300px;
+  background-color: #e7e795;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 4px;
+}
+.block__name {
+  color: black;
+  font-size: 15px;
+}
+.block__text {
+  background-color: #5eb130;
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  margin-top: 3px;
+}
+
+/*# sourceMappingURL=style.css.map */
